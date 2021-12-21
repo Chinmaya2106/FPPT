@@ -1,7 +1,7 @@
 {
   "name": "supply-chain",
   "version": "1.0.0",
-  "description": "A Blockchain Supply Chain CoffeeTrade",
+  "description": "FPPT",
   "main": "index.js",
   "scripts": {
     "dev": "lite-server",
